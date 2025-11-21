@@ -244,3 +244,33 @@
         "amount_idx": -1
     }
 ]
+{
+        "name": "Akrab 10 GB + Unlimited App ",
+        "price": "Rp61000",
+        "detail": "\nUnlimited Produktivitas. \nCandi Borobudur Tidak Dibangun Oleh Orang Yang Ragu.\n#Ragumu Rugimu.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Akrab 2 Member",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "option_name": "Akrab",
+                "order": 62
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 61000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+}
