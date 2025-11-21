@@ -242,9 +242,9 @@
         "overwrite_amount": 1000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    }
-]
-{
+    }.
+
+    {
         "name": "Akrab 10 GB + Unlimited App ",
         "price": "Rp61000",
         "detail": "\nUnlimited Produktivitas. \nCandi Borobudur Tidak Dibangun Oleh Orang Yang Ragu.\n#Ragumu Rugimu.\nSupported payment: E-wallet & QRIS.",
@@ -274,3 +274,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
 }
+]
